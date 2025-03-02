@@ -3,8 +3,6 @@ This project is created by Manjit Dutta, I don't have much time left before dead
 
 
 
-I'll put this base64 text in files that i will share to other peoples and if you see it pop up in there console just re-converting back to text from base64 and it'll show my name and all...
+I'll put this base64 text in files that I will share with other peoples and if you see it pop up in their console just re-convert it back to text from base64 and it'll show my name and all...
 
-"UHJvamVjdCB3YXMgaW5pdGlhbGx5IGNyZWF0ZWQgYnkgTWFuaml0IER1dHRhLi4u",
-
-Basically says, "Project was initially created by Manjit Dutta...'
+"UHJvamVjdCB3YXMgaW5pdGlhbGx5IGNyZWF0ZWQgYnkgTWFuaml0IER1dHRhLi4u"
