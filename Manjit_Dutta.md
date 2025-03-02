@@ -1,0 +1,10 @@
+This project is created by Manjit Dutta, I don't have much time left before deadline, half an hour left, most of us haven't been able to finish the project yet, so I will probably end up helping them and they might copy paste my entire project, right now all api end points are working properly, login signup,add address/delete/modify address, add/delete/modify dashboard change or user role set through postman since there's no way to sign up as admin in the sign up page, admin sees the add product link which leads them to add product page which also acts as modify product page, right now there is one warning that i get but if i fix it i get prematurely thrown out of logged out as soon as i logged in so ignore it, without fixing it everything's working as intended, again everything's working, just make sure to not refresh or remove the tab or restart the app in vs code, or else it'll log you out, and you'll be back to initial page, I did this becuase before, even if i closed the tab or stopped the app the logout button would be there, and product page and all, now HOME button will help you navigate back to products page even if you click home or you can use the browser's navigate bottons or icon, again just don't reload it'll end the session and you'll be logged out, and there are so many things I wanted to write, but it's to late 10 mins left before submission/deadline, again everthing works at my end if anything is not close the tab, stop the app by ctrl+ c, ctrl + l to clear console and click on any file save it by you know, and restart the app, that's it for now I guess, no time to check spellings and all, And yeah I learned various things by creating this project, that's it for now.
+
+
+
+
+I'll put this base64 text in files that i will share to other peoples and if you see it pop up in there console just re-converting back to text from base64 and it'll show my name and all...
+
+"UHJvamVjdCB3YXMgaW5pdGlhbGx5IGNyZWF0ZWQgYnkgTWFuaml0IER1dHRhLi4u",
+
+Basically says, "Project was initially created by Manjit Dutta...'
